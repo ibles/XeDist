@@ -1,6 +1,6 @@
 # **XeDist**
 
-Calculate the $^{136}$Xe 0nBB background distribution in a LXe TPC. Used in my thesis to predict the external background in a generation-3 TPC without detailed Monte-Carlo. 
+Calculate the 136Xe 0nBB background distribution in a LXe TPC. Used in my thesis to predict the external background in a generation-3 TPC without detailed Monte-Carlo. 
 
 Uses the integrated rate from LZ (https://arxiv.org/abs/1912.04248) 
 
