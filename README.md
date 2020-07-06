@@ -2,7 +2,7 @@
 
 Calculate the $^{136}$Xe 0nBB background distribution in a LXe TPC. Used in my thesis to predict the external background in a generation-3 TPC without detailed Monte-Carlo. 
 
-Uses the integrated rate from LZ (https://arxiv.org/abs/1912.04248) 
+Uses a mathematical model of gamma-ray attenuation, and the integrated rate from LZ (https://arxiv.org/abs/1912.04248) 
 
 ### Usage
 
