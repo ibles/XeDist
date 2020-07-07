@@ -1,4 +1,5 @@
 # **XeDist**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rob-tay/XeDist/master)
 
 Calculate the 136Xe 0nBB background distribution in a LXe TPC. Used in my thesis to predict the external background in a generation-3 TPC without detailed Monte-Carlo. 
 
