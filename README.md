@@ -14,7 +14,7 @@ tpc = xedist.TPC(radius=72.8, height=145.6)
 pmt_source = xedist.DiskGammaSource(tpc.radius, 0, energy=2447, n=10)
 
 dist = xedist.spatial_distribution(tpc, pmt_source)
-cumulative_rate = xedist.get_cumulative_rate(rate, tpc)
+cumulative_rate = xedist.get_cumulative_rate(dist, tpc)
 ```
 ### Notebooks
 Predictions for a G3 experiment are [here](g3.ipynb)
